@@ -14,4 +14,5 @@ The growing influence of AI further exacerbates this issue. AI technologies can 
 
 # What is Story Protocol and how we build in it ecosystem?
 Story is making the legal system for creative Intellectual Property (IP) more efficient by turning IP "programmable" on the blockchain. To do this, we have created Story Network: a purpose-built layer 1 blockchain where people or programs alike can license, remix, and monetize IP according to transparent terms set by creators themselves.
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/680420f6-0a2f-4c68-9eb0-58c53d84f098/a0522344-577b-4fc4-ad19-4f969c32799c/image.png)
+![DeIP - Frame 10](https://github.com/user-attachments/assets/416a462b-5a1e-4dce-99f0-d705b2995bbd)
+
