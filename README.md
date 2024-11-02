@@ -13,6 +13,8 @@
 * [Too Long Didn't Read](#too-long-didn)
 * [Roadmap](#roadmap)
 
+
+
 # Problem Statement
 In today’s interconnected world, local intellectual property (IP) owners often find their IP vulnerable to exploitation on a global scale. Even when they register their IP **both domestically and internationally**, foreign entities **can still monetize** their creations without authorization. 
 
@@ -22,10 +24,14 @@ The rise of digitalization has amplified these challenges. Artists, creators, an
 
 Complicating this is the tedious, complex process of traditional IP registration, which discourages many creators from securing protection. Even when IP is registered, domestic laws often fall short in offering global protection.
 
+
+
 # **The Challenge: IP Protection in a Digital Age**
 As the world moves deeper into digital transformation, artists, inventors, and creators across all fields—be it art, music, patents, or even proprietary formulas—need protection that goes beyond borders. Domestic laws can’t fully safeguard IP against international digital threats, and the traditional methods of IP registration are cumbersome, often outdated, and insufficient in this evolving landscape.
 
 The growing influence of AI further exacerbates this issue. AI technologies can easily reproduce or adapt original work, making it difficult for creators to maintain ownership of their creations. Without a global system that integrates both physical and digital IP protection, **creators are left vulnerable to exploitation.**
+
+
 
 # What is Story Protocol and how we build in it ecosystem?
 Story is making the legal system for creative Intellectual Property (IP) more efficient by turning IP "programmable" on the blockchain. To do this, we have created Story Network: a purpose-built layer 1 blockchain where people or programs alike can license, remix, and monetize IP according to transparent terms set by creators themselves.
@@ -33,7 +39,10 @@ Story is making the legal system for creative Intellectual Property (IP) more ef
 
 DeIP aims to leverage Story Protocol's IP infrastructure to bring traditional and Web2 off-chain IP users into the Web3 space, building an open ecosystem that links local creators with a global network. This initiative allows artists and creators from diverse backgrounds to connect easily with the international creative community. Additionally, DeIP provides a direct pathway to IP owners on Story Protocol, supporting the ethical commercialization of creative works. This framework is meticulously crafted to preserve the integrity and unique value of each artwork. Through this approach, DeIP fosters a secure, transparent, and sustainable environment for art to thrive.
 
+
+
 # Phase 1: Introducing: DeIP – Fulfillment IP solution
+
 ## We help inventors protecting
 DeIP offers a revolutionary solution by connecting physical IP registered under domestic law to Story Protocol, a global IP network designed through license module to safeguard intellectual property from the growing threats of digital infringement. By linking local IP with this global framework, creators can ensure that their work is protected on a worldwide scale, regardless of where the infringement occurs.
 ![DeIP - Frame 4](https://github.com/user-attachments/assets/bac0c1c2-a386-4316-9d9a-d053005a9379)
@@ -95,6 +104,8 @@ IP.FUN bridges creators with their community, making it easier for traditional p
 #### Revenue Stream
 - Transaction fee
 
+
+
 # Phase 2: Advanced IP Protection with Amery - The AI multimodal optimized for IP
 [**OUR DETAIL RESEARCH**](https://docs.google.com/document/d/1PytjKFPMmu24XeVCFb6yhmZBu6gZj3Gkvahkj-bPBEo/edit?tab=t.0)
 
@@ -110,6 +121,8 @@ To combat IP infringement in the digital realm, DeIP has developed **Amery**, a 
 Not only does Amery identify potential infringements, but it also acts as a preventive tool. By filtering keywords that might lead to IP violations, it stops users from unintentionally infringing on protected IP when generating content. Furthermore, DeIP provides an SDK for AI models, ensuring that existing large language models (LLMs) don’t generate images or videos that infringe on IP.
 ![DeIP - Frame 2](https://github.com/user-attachments/assets/abb5cf89-3ae5-4369-bc06-6c31d2cc21ac)
 Amery’s capabilities include a multimodal AI currently focused on validating and testing ideas, hypotheses, and refining metrics. This process, which can span several months, is presently in the ideation phase.
+
+
 
 # Too long didn’t read:
 
@@ -127,6 +140,8 @@ Amery’s capabilities include a multimodal AI currently focused on validating a
 - Introduces Amery, an AI multimodal system optimized for IP protection
 - Employs technologies like ORB, SSIM, and hashed image techniques to detect and prevent infringement to DeAI’s IP dataset
 - Provides an SDK for AI models to prevent IP infringement in content generation
+
+
 
 # Roadmap
 ![DeIP - Frame 8](https://github.com/user-attachments/assets/9a0be79b-337b-4a3d-ba58-b543c00a9bdf)
