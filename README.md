@@ -1,8 +1,9 @@
 # Contents
-*[Problem Statement](#problem-statement)
-*[The Challenge](#the-challenge-ip-protection-in-a-digital-age)
-*[What is Story protocol and How we build in it ecosystem?](#what-is-story-protocol-and-how-we-build-in-it-ecosystem?)
 
+* [Problem Statement](#problem-statement)
+* [The Challenge](#the-challenge-ip-protection-in-a-digital-age)
+* [What is Story protocol and How we build in it ecosystem?](#what-is-story-protocol-and-how-we-build-in-it-ecosystem?)
+* [Phase 1: Introducing](#phase-1)
 
 # Problem Statement
 In today’s interconnected world, local intellectual property (IP) owners often find their IP vulnerable to exploitation on a global scale. Even when they register their IP **both domestically and internationally**, foreign entities **can still monetize** their creations without authorization. 
@@ -22,3 +23,6 @@ The growing influence of AI further exacerbates this issue. AI technologies can 
 Story is making the legal system for creative Intellectual Property (IP) more efficient by turning IP "programmable" on the blockchain. To do this, we have created Story Network: a purpose-built layer 1 blockchain where people or programs alike can license, remix, and monetize IP according to transparent terms set by creators themselves.
 ![DeIP - Frame 10](https://github.com/user-attachments/assets/416a462b-5a1e-4dce-99f0-d705b2995bbd)
 
+DeIP aims to leverage Story Protocol's IP infrastructure to bring traditional and Web2 off-chain IP users into the Web3 space, building an open ecosystem that links local creators with a global network. This initiative allows artists and creators from diverse backgrounds to connect easily with the international creative community. Additionally, DeIP provides a direct pathway to IP owners on Story Protocol, supporting the ethical commercialization of creative works. This framework is meticulously crafted to preserve the integrity and unique value of each artwork. Through this approach, DeIP fosters a secure, transparent, and sustainable environment for art to thrive.
+
+#Phase 1: Introducing: DeIP – Fulfillment IP solution
