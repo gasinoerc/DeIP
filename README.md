@@ -4,9 +4,9 @@
 * [The Challenge](#the-challenge-ip-protection-in-a-digital-age)
 * [What is Story protocol and How we build in it ecosystem?](#what-is-story-protocol-and-how-we-build-in-it-ecosystem?)
 * [Phase 1: Introducing](#phase-1)
-**   [Protecting](#we-help-inventors)
-**   [Commercializing](#we-help-inventors-commercializing)
-**   [For Community - Grow Hacking](#for-community-grow-hacking)
+   * [Protecting](#we-help-inventors)
+   * [Commercializing](#we-help-inventors-commercializing)
+   * [For Community - Grow Hacking](#for-community-grow-hacking)
    
 # Problem Statement
 In today’s interconnected world, local intellectual property (IP) owners often find their IP vulnerable to exploitation on a global scale. Even when they register their IP **both domestically and internationally**, foreign entities **can still monetize** their creations without authorization. 
