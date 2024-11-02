@@ -7,7 +7,12 @@
    * [Protecting](#we-help-inventors)
    * [Commercializing](#we-help-inventors-commercializing)
    * [For Community - Grow Hacking](#for-community-grow-hacking)
-   
+* [Phase 2: Advanced IP Protection with Amery](#phase-2)
+   * [DeIP vs Digital IP infrigement](#deip-vs-digital-ip)
+   * [An SDK for LLM IP infringement supression](#an-sdk-for-llm)
+* [Too Long Didn't Read](#too-long-didn)
+* [Roadmap](#roadmap)
+
 # Problem Statement
 In today’s interconnected world, local intellectual property (IP) owners often find their IP vulnerable to exploitation on a global scale. Even when they register their IP **both domestically and internationally**, foreign entities **can still monetize** their creations without authorization. 
 
