@@ -1,14 +1,11 @@
-# Contents
+# Table of Contents
 
 * [Problem Statement](#problem-statement)
 * [The Challenge](#the-challenge-ip-protection-in-a-digital-age)
 * [What is Story protocol and How we build in it ecosystem?](#what-is-story-protocol-and-how-we-build-in-it-ecosystem?)
 * [Phase 1: Introducing](#phase-1)
  * [Protecting](#we-help-inventors)
-  * [Revenue Stream](#revenue-stream)
  * [Commercializing](#we-help-inventors-commercializing)
-  * [How this work?](#how-this-work)
-  * [Revenue Stream](#revenue-stream)
  * [For Community - Grow Hacking](#for-community-grow-hacking)
    
 # Problem Statement
