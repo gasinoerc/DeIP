@@ -89,3 +89,39 @@ IP.FUN bridges creators with their community, making it easier for traditional p
 
 #### Revenue Stream
 - Transaction fee
+
+# Phase 2: Advanced IP Protection with Amery - The AI multimodal optimized for IP
+[**OUR DETAIL RESEARCH**](https://docs.google.com/document/d/1PytjKFPMmu24XeVCFb6yhmZBu6gZj3Gkvahkj-bPBEo/edit?tab=t.0)
+
+Our proposed mitigation approach for addressing intellectual property infringement (IPI) is specifically aimed at preventing name-based IPI. The first step involves blocking any input prompts that directly reference the names of protected characters, thereby preventing the AI models from generating images that visually represent copyrighted entities. 
+
+Following this, the content is generated through the standard process according to the user’s prompt. We then utilize large multi-modal AI models, capable of processing both textual and visual data, to detect any potential IP violations in the output. Finally, a guided diffusion technique is applied to regenerate the image, ensuring that the model steers away from generating content that resembles the protected character, while still maintaining the original intent of the user’s prompt.
+
+## **DeIP vs Digital IP infrigement**
+To combat IP infringement in the digital realm, DeIP has developed **Amery**, a cutting-edge AI-powered multimodal system. Amery uses technologies such as ORB, SSIM, and hashed image techniques, combined with Story Protocol’s [**Dispute Module**](https://docs.story.foundation/docs/dispute-module), to detect and prevent IP infringement online. Once a new IP owner is onboarded, their intellectual property is added to our dataset, where it is protected by **Amery**. **Amery** continuously scans digital data, and if any infringement is detected, we will take action by using [**Story Protocol's Dispute Module**](https://docs.story.foundation/docs/dispute-module) to address the violation.
+![DeIP - Frame 7](https://github.com/user-attachments/assets/9241a1f2-3620-4e2a-9cef-cafad71178fa)
+
+## **An SDK for LLM IP infringement supression**
+Not only does Amery identify potential infringements, but it also acts as a preventive tool. By filtering keywords that might lead to IP violations, it stops users from unintentionally infringing on protected IP when generating content. Furthermore, DeIP provides an SDK for AI models, ensuring that existing large language models (LLMs) don’t generate images or videos that infringe on IP.
+![DeIP - Frame 2](https://github.com/user-attachments/assets/abb5cf89-3ae5-4369-bc06-6c31d2cc21ac)
+Amery’s capabilities include a multimodal AI currently focused on validating and testing ideas, hypotheses, and refining metrics. This process, which can span several months, is presently in the ideation phase.
+
+# Too long didn’t read:
+
+**Problem and Challenge**
+- Local IP owners face global exploitation despite domestic and international registration
+- Digitalization and AI have amplified IP protection challenges, especially for digital creations
+- Traditional IP registration processes are complex and insufficient for global digital threats
+
+**DeIP Solution - Phase 1**
+- Connects physical IP to Story Protocol, a global IP network, for worldwide protection
+- Partners with KPMG for expert support in legal disputes, IP valuation audit, IP supply
+- Utilizes blockchain for IP tokenization, allowing co-ownership and revenue sharing by an IP launchpad
+
+**Advanced Protection - Phase 2**
+- Introduces Amery, an AI multimodal system optimized for IP protection
+- Employs technologies like ORB, SSIM, and hashed image techniques to detect and prevent infringement to DeAI’s IP dataset
+- Provides an SDK for AI models to prevent IP infringement in content generation
+
+# Roadmap
+![DeIP - Frame 8](https://github.com/user-attachments/assets/9a0be79b-337b-4a3d-ba58-b543c00a9bdf)
