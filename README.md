@@ -1,3 +1,6 @@
+# Contents
+*[Problem Statement](#problem-statement)
+*[The Challenge](#the-challenge-ip-protection-in-a-digital-age)
 # Problem Statement
 In today’s interconnected world, local intellectual property (IP) owners often find their IP vulnerable to exploitation on a global scale. Even when they register their IP **both domestically and internationally**, foreign entities **can still monetize** their creations without authorization. 
 
